@@ -1,6 +1,6 @@
-# testing
-#pec tasks
+
 #greatestnumber
+
 y=int(input("how many nmbers you want to enter  :"))
 l=0
 p=0
